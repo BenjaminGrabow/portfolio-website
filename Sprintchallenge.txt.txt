@@ -1,0 +1,14 @@
+week 2 css https://github.com/LambdaSchool/Sprint-Challenge--Advanced-CSS
+week 3 java fundamentals https://github.com/LambdaSchool/Sprint-Challenge--JavaScript
+week 4 https://github.com/LambdaSchool/Sprint-Challenge-Applied-Javascript
+week 5 build week 
+week 6 React https://github.com/LambdaSchool/Sprint-Challenge-React-Wars
+week 7 https://github.com/LambdaSchool/Sprint-Challenge-Lambda-Times-React
+week 8 https://github.com/LambdaSchool/Sprint-Challenge-React-Smurfs
+week 9 https://github.com/LambdaSchool/Sprint-Challenge-Redux-Smurfs
+week 10 build week 
+week 11 https://github.com/LambdaSchool/webapi-challenge
+week 12 https://github.com/LambdaSchool/webdb-challenge
+week 13 https://github.com/LambdaSchool/Sprint-Challenge-Authentication
+week 14 https://github.com/LambdaSchool/Sprint-Challenge--Testing
+week 15 build week
